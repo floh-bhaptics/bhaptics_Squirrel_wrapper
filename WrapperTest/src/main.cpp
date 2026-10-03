@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 // WrapperTest - quick smoke test for bhaptics_wrapper outside of the game.
 //
 // Usage:
